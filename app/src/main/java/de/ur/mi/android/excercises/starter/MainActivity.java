@@ -18,11 +18,12 @@ public class MainActivity extends Activity {
 
 
 
-    private ImageButton myWgButton;
+    private ImageButton finanzenButton;
     private ImageButton einkaufslisteButton;
     private ImageButton kalenderButton;
     private ImageButton einstellungenButton;
-    private ImageButton blackboard;
+    private ImageButton blackboardButton;
+    private ImageButton putzplanButton;
 
 
 
@@ -39,19 +40,20 @@ public class MainActivity extends Activity {
     }
 
     private void initButtons(){
-        myWgButton = (ImageButton) findViewById(R.id.myWG);
-        einkaufslisteButton = (ImageButton) findViewById(R.id.einkaufsliste);
-        kalenderButton = (ImageButton) findViewById(R.id.kalender);
-        einstellungenButton = (ImageButton) findViewById(R.id.einstellungen);
-        blackboard = (ImageButton) findViewById(R.id.blackboard);
+        finanzenButton = (ImageButton) findViewById(R.id.finanzen_button);
+        einkaufslisteButton = (ImageButton) findViewById(R.id.einkaufsliste_button);
+        kalenderButton = (ImageButton) findViewById(R.id.kalender_button);
+        einstellungenButton = (ImageButton) findViewById(R.id.einstellungen_button);
+        blackboardButton = (ImageButton) findViewById(R.id.blackboard_button);
+        putzplanButton = (ImageButton) findViewById(R.id.putzplan_button);
 
     }
 
     private void initOnClickListener(){
-        myWgButton.setOnClickListener(new View.OnClickListener() {
+        finanzenButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                    Intent intent = new Intent(MainActivity.this,meineWg.class);
+                    Intent intent = new Intent(MainActivity.this,Finanzen.class);
                   startActivity(intent);
             }
         });
@@ -75,8 +77,24 @@ public class MainActivity extends Activity {
         einstellungenButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //      Intent intent = new Intent(MainActivity.this,Einstellungen.class);
-                //     startActivity(intent);
+                     Intent intent = new Intent(MainActivity.this,Einstellungen.class);
+                     startActivity(intent);
+            }
+        });
+
+        blackboardButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,Blackboard.class);
+                startActivity(intent);
+            }
+        });
+        putzplanButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent intent = new Intent(MainActivity.this,Putzplan.class);
+                startActivity(intent);
             }
         });
     }

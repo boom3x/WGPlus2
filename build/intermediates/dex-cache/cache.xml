@@ -12,33 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Gucci\.android\build-cache\5b749e3e3ba66bf7d0f22263377b00572c2e2db4\output\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_7a19c9d8a0c5974e56984152f50125249dea9ee2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Gucci\.android\build-cache\13ad45cd683cdc11dc75894a01af9ddb6c7e167e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\classes_fd0a00c5d194e8f4812a7d53a69a0600573e42ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Gucci\.android\build-cache\0ce98fc7b3141a53eb8e7145d699e741e992bd56\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
-        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\classes_d55d129f942d2dfd6d8932fe4e35943f4bb08f4d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Gucci\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
@@ -63,6 +36,51 @@
         revision="26.0.0"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
         <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\classes_916e34a152165ecd48dbe5c6670d4e2e2f4d4098.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_19e7ab6d71b2d63816b5cf7f453cc6df8056481b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d2fd0beb3fa73bb15e68cb08bd48fb96b67a0787">
+        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4b421ed0905981645df805f8d5d070caaa13a6e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gucci\.android\build-cache\5b749e3e3ba66bf7d0f22263377b00572c2e2db4\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_7a19c9d8a0c5974e56984152f50125249dea9ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gucci\.android\build-cache\13ad45cd683cdc11dc75894a01af9ddb6c7e167e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\classes_fd0a00c5d194e8f4812a7d53a69a0600573e42ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gucci\.android\build-cache\0ce98fc7b3141a53eb8e7145d699e741e992bd56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\build\intermediates\pre-dexed\debug\classes_d55d129f942d2dfd6d8932fe4e35943f4bb08f4d.jar" />
     </item>
     <item
         is-multidex="false"

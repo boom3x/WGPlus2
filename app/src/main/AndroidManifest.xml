@@ -32,10 +32,10 @@
         <activity
             android:name=".toDoList"
             android:label="@string/title_activity_kalender" />
-        <activity android:name=".meineWg" />
         <activity
             android:name=".Blackboard"
-            android:label="@string/title_activity_blackboard"></activity>
+            android:label="@string/title_activity_blackboard" />
+        <activity android:name=".Putzplan"></activity>
     </application>
 
 </manifest>

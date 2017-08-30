@@ -1,4 +1,4 @@
-#Mon Aug 21 15:32:05 CEST 2017
+#Wed Aug 30 13:45:21 CEST 2017
 base.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

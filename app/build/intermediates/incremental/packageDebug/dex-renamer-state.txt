@@ -1,4 +1,7 @@
-#Tue Aug 29 15:29:57 CEST 2017
-base.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Aug 30 13:45:21 CEST 2017
+base.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4b421ed0905981645df805f8d5d070caaa13a6e3
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_19e7ab6d71b2d63816b5cf7f453cc6df8056481b\\classes.dex
+base.1=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_19e7ab6d71b2d63816b5cf7f453cc6df8056481b
+file.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4b421ed0905981645df805f8d5d070caaa13a6e3\\classes.dex

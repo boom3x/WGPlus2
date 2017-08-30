@@ -154,6 +154,9 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#367820</color>
+    <color name="colorPrimaryDark">#303F9F</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -185,6 +188,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="transparent">#000000</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
 
             

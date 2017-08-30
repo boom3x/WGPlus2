@@ -74,16 +74,16 @@ ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaet
 		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:34:13-60
 	android:name
 		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:33:13-37
-activity#de.ur.mi.android.excercises.starter.meineWg
-ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:35:9-45
-	android:name
-		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:35:19-42
 activity#de.ur.mi.android.excercises.starter.Blackboard
-ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:36:9-38:74
+ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:35:9-37:65
 	android:label
-		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:38:13-62
+		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:37:13-62
 	android:name
-		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:37:13-39
+		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:36:13-39
+activity#de.ur.mi.android.excercises.starter.Putzplan
+ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:38:9-55
+	android:name
+		ADDED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml:38:19-43
 uses-sdk
 INJECTED from C:\Users\Gucci\Downloads\Allgemeines Starterprojekt fuer Uebungsblaetter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gucci\.android\build-cache\13ad45cd683cdc11dc75894a01af9ddb6c7e167e\output\AndroidManifest.xml:5:5-7:41

@@ -36,10 +36,10 @@
         <activity
             android:name="de.ur.mi.android.excercises.starter.toDoList"
             android:label="@string/title_activity_kalender" />
-        <activity android:name="de.ur.mi.android.excercises.starter.meineWg" />
         <activity
             android:name="de.ur.mi.android.excercises.starter.Blackboard"
             android:label="@string/title_activity_blackboard" />
+        <activity android:name="de.ur.mi.android.excercises.starter.Putzplan" />
     </application>
 
 </manifest>
