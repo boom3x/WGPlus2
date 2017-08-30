@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+   <LinearLayout
+       android:layout_height="0dp"
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       android:orientation="horizontal">
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/myWG"
+          android:text="myWG"
+          android:src="@drawable/ic_shopping_cart_black_24dp"
+          />
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/einkaufsliste"
+          android:text="Einkaufsliste"
+          android:src="@drawable/ic_monetization_on_black_24dp"
+          />
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_height="0dp"
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       android:orientation="horizontal">
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/blackboard"
+          android:text="Blackboard"
+          android:src="@drawable/ic_add_a_photo_black_24dp"
+
+          />
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/putzplan"
+          android:text="Putzplan"
+          android:src="@drawable/ic_brush_black_24dp"
+          />
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_height="0dp"
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       android:orientation="horizontal">
+
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/kalender"
+          android:text="Kalender"
+          android:src="@drawable/ic_event_available_black_24dp"
+          />
+      <ImageButton
+          android:layout_height="match_parent"
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:id="@+id/einstellungen"
+          android:text="Settings"
+          android:src="@drawable/ic_settings_black_24dp"
+
+          />
+   </LinearLayout>
+
+
+
+
+
+</LinearLayout>
