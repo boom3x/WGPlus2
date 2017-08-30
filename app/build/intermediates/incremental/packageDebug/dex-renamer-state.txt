@@ -1,0 +1,4 @@
+#Tue Aug 29 15:29:57 CEST 2017
+base.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

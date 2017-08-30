@@ -1,0 +1,19 @@
+#Tue Aug 01 15:35:28 CEST 2017
+renamed.5=classes.dex
+renamed.4=classes5.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_79bc4914865c12260280bbae77a52acfdc13bafd
+base.4=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_7a19c9d8a0c5974e56984152f50125249dea9ee2
+base.3=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_916e34a152165ecd48dbe5c6670d4e2e2f4d4098
+base.2=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_8bf5d097e582d6bde1a35412ad47be845b1c0138
+base.1=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_ce21cc39ca5c60af9bc1e03423e6cf1d729cf22d
+base.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fd0a00c5d194e8f4812a7d53a69a0600573e42ac
+file.5=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_79bc4914865c12260280bbae77a52acfdc13bafd\\classes.dex
+file.4=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_7a19c9d8a0c5974e56984152f50125249dea9ee2\\classes.dex
+file.3=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_916e34a152165ecd48dbe5c6670d4e2e2f4d4098\\classes.dex
+file.2=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_8bf5d097e582d6bde1a35412ad47be845b1c0138\\classes.dex
+file.1=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_ce21cc39ca5c60af9bc1e03423e6cf1d729cf22d\\classes.dex
+file.0=C\:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fd0a00c5d194e8f4812a7d53a69a0600573e42ac\\classes.dex
