@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_panorama_fish_eye_black_24dp.png",
-        "source": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\src\\main\\res\\drawable\\ic_panorama_fish_eye_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_event_available_black_24dp.png",
         "source": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\src\\main\\res\\drawable\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_panorama_fish_eye_black_24dp.png",
+        "source": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\src\\main\\res\\drawable\\ic_panorama_fish_eye_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Gucci\\Downloads\\Allgemeines Starterprojekt fuer Uebungsblaetter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",

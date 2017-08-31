@@ -33,7 +33,15 @@
                     "endOffset": 712
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
                 }
             },
             {
@@ -46,7 +54,15 @@
                     "endOffset": 1240
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
                 }
             },
             {
@@ -59,7 +75,15 @@
                     "endOffset": 1766
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1621
+                    }
                 }
             },
             {
@@ -72,7 +96,15 @@
                     "endOffset": 2306
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2162
+                    }
                 }
             },
             {
@@ -84,7 +116,14 @@
                     "endOffset": 2385
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 79,
+                        "endOffset": 2243
+                    }
                 }
             },
             {
@@ -96,7 +135,14 @@
                     "endOffset": 2478
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 93,
+                        "endOffset": 2338
+                    }
                 }
             },
             {
@@ -108,7 +154,14 @@
                     "endOffset": 2569
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 91,
+                        "endOffset": 2431
+                    }
                 }
             },
             {
@@ -120,7 +173,14 @@
                     "endOffset": 2674
                 },
                 "from": {
-                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml"
+                    "file": "C:\\Users\\Gucci\\.android\\build-cache\\cd958e89802d3aba70d5467b7d8784c9a02b1bd5\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 105,
+                        "endOffset": 2538
+                    }
                 }
             }
         ]
